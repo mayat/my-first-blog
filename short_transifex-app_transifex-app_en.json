@@ -1,0 +1,962 @@
+{
+    "project.add.languages.infobox": {
+        "string": "The <b>source language</b> is the language you are translating from - it's usually what you develop your app or content in. This cannot be changed later.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.type.native.label": {
+        "string": "\n              <span {type_style}>Native</span>: Add an SDK to your code, serve translations Over The Air\n            ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.languages.target_languages.clear_selected": {
+        "string": "clear target languages",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": 30
+    },
+    "project.add.type.title": {
+        "string": "Choose project type",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.existing.select.search_placeholder": {
+        "string": "Start typing to filter teams",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.languages.target_languages.label": {
+        "string": "Target languages",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.name.input.helptext": {
+        "string": "\n                e.g. <em class=\"js-project-name\">\"{ oname } Website\"</em>. A unique project URL will be created based on the name.\n              ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.title": {
+        "string": "\n  Add a new project\n  ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.page_title": {
+        "string": "Add project",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.existing.select.placeholder": {
+        "string": "Select a team",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.public.helptext": {
+        "string": "Your project will be visible to everyone.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.name.input.placeholder": {
+        "string": "Type your project name",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.name.title": {
+        "string": "Name your project",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.create_button": {
+        "string": "Create project",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.languages.infobox_extra": {
+        "string": "\n              <b>Target languages</b> are the languages you want to translate your content to.\n              You can always add and remove languages later on.\n            ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.target_languages.title.optional": {
+        "string": "(optional, set later)",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.type.live.upgrade_text": {
+        "string": "\n                Transifex Live is not available for organizations in Open Source plan. Please consider upgrading to use it.\n              ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.existing.label": {
+        "string": "Assign this project to an existing team",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.new.label": {
+        "string": "Create a new team for this project",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.type.native.helptext": {
+        "string": "Supported frameworks: JavaScript, React, Angular, Vue, i18next, Django, Python, Android, iOS.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.name.input.url_info": {
+        "string": "\n              The unique URL for your project will be <span id=\"project-urlpath\">app.transifex.com/{ oslug }/</span><span id=\"js-project-slug\"></span>. You can change it later.\n              ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.type.file_based.label": {
+        "string": "\n            <span {type_style}>File based</span>: Upload a language file (e.g. po, yml, xliff) with your contents\n            ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.existing.assign_text": {
+        "string": "\n                Assign this project to { teamname }\n              ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.general_error": {
+        "string": "There seems to be a generic problem creating project. Please try resubmitting in a while!",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.private.label": {
+        "string": "Private project",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.infobox": {
+        "string": "\n              <b>Teams</b> consist of people that translate, review and work together to localize content into a set of languages.\n            ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.languages.source_language.select.placeholder": {
+        "string": "Choose a source language",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.team.title": {
+        "string": "Assign to team",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.type.live.label": {
+        "string": "\n              <span {type_style}>Live</span>: Set your website URL, add a snippet, and let Transifex auto-detect strings\n            ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.private.infobox": {
+        "string": "\n            A <b>private project</b> is only visible to you and your team. In order to make a project private, you will need to be on a paid plan.\n          ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.public.label": {
+        "string": "Public project",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.languages.target_languages.select.label": {
+        "string": "Choose a target language",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.languages.title": {
+        "string": "Select languages",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.add.privacy.private.helptext": {
+        "string": "A private project is only visible to you and your team.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.settings.workflow.tm_fillup_similar_locales.label": {
+        "string": "Translation Memory Fillup from similar locales",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "project.settings.workflow.tm_fillup_similar_locales.description": {
+        "string": "\n            Checking this option will automatically translate phrases with exact matches from the Translation Memory. <a {docs_link}>Read more in our documentation.</a>\n            ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Something went wrong while contacting our servers.": {
+        "string": "Something went wrong while contacting our servers.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Manage Collaborators": {
+        "string": "Manage Collaborators",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Max allowed on this organization <b>{limit}</b>": {
+        "string": "Max allowed on this organization <b>{limit}</b>",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Items per page:": {
+        "string": "Items per page:",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "No collaborators found!": {
+        "string": "No collaborators found!",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Please redefine your search to get more collaborators.": {
+        "string": "Please redefine your search to get more collaborators.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Select All": {
+        "string": "Select All",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Deselect All": {
+        "string": "Deselect All",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Profile": {
+        "string": "Profile",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Role": {
+        "string": "Role",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Last Seen": {
+        "string": "Last Seen",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Actions": {
+        "string": "Actions",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Show details": {
+        "string": "Show details",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Remove collaborator": {
+        "string": "Remove collaborator",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "{selectedItems, plural, one {Are you sure you want to remove the selected collaborator?} other {Are you sure you want to remove the {selectedItems} selected collaborators?}}": {
+        "string": {
+            "1": "Are you sure you want to remove the selected collaborator?",
+            "5": "Are you sure you want to remove the {selectedItems} selected collaborators?"
+        },
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "{selectedItems, plural, one {The following collaborator will be removed. This cannot be undone.} other {The following collaborators will be removed. This cannot be undone.}}": {
+        "string": {
+            "1": "The following collaborator will be removed. This cannot be undone.",
+            "5": "The following collaborators will be removed. This cannot be undone."
+        },
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "<b>Project Maintainer</b> role of <b>{users}</b> for <b>{project_name}</b> is automatically going to be assigned to you.": {
+        "string": "<b>Project Maintainer</b> role of <b>{users}</b> for <b>{project_name}</b> is automatically going to be assigned to you.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "<b>Language Coordinator</b> role of <b>{users}</b> for <b>{language_name}</b> ({team_name}) is automatically going to be assigned to you.": {
+        "string": "<b>Language Coordinator</b> role of <b>{users}</b> for <b>{language_name}</b> ({team_name}) is automatically going to be assigned to you.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Cancel": {
+        "string": "Cancel",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Remove": {
+        "string": "Remove",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Collaborator Details": {
+        "string": "Collaborator Details",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Roles ({roles_count})": {
+        "string": "Roles ({roles_count})",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Remove Collaborator": {
+        "string": "Remove Collaborator",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "{total, plural, one {Collaborator} other {Collaborators}}": {
+        "string": {
+            "1": "Collaborator",
+            "5": "Collaborators"
+        },
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "(including {orders} from e2f working on orders)": {
+        "string": "(including {orders} from e2f working on orders)",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "E2f members do not count towards your subscription's capacity and will be auto-removed upon order's delivery.": {
+        "string": "E2f members do not count towards your subscription's capacity and will be auto-removed upon order's delivery.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "{selectedItems, plural, one {{selectedItems} Collaborator selected} other {{selectedItems} Collaborators selected}}": {
+        "string": {
+            "1": "{selectedItems} Collaborator selected",
+            "5": "{selectedItems} Collaborators selected"
+        },
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Organization Administrator": {
+        "string": "Organization Administrator",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Project Maintainer": {
+        "string": "Project Maintainer",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Team Manager": {
+        "string": "Team Manager",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Language Coordinator": {
+        "string": "Language Coordinator",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Reviewer": {
+        "string": "Reviewer",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Translator": {
+        "string": "Translator",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search by username, email address or full name": {
+        "string": "Search by username, email address or full name",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "User": {
+        "string": "User",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Filters": {
+        "string": "Filters",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search": {
+        "string": "Search",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Before": {
+        "string": "Before",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "After": {
+        "string": "After",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "your text": {
+        "string": "your text",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Type your username or email address": {
+        "string": "Type your username or email address",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search for collaborators by their username or email address": {
+        "string": "Search for collaborators by their username or email address",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search in one or more user roles. Leave it blank to search in all user roles": {
+        "string": "Search in one or more user roles. Leave it blank to search in all user roles",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search for collaborators that were last seen before a specific date": {
+        "string": "Search for collaborators that were last seen before a specific date",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search for collaborators that were last seen after a specific date": {
+        "string": "Search for collaborators that were last seen after a specific date",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Selected": {
+        "string": "Selected",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Apply": {
+        "string": "Apply",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Clear": {
+        "string": "Clear",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Documentation": {
+        "string": "Documentation",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Integrations": {
+        "string": "Integrations",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Blog": {
+        "string": "Blog",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Community": {
+        "string": "Community",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Releases": {
+        "string": "Releases",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Status": {
+        "string": "Status",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Contact": {
+        "string": "Contact",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Privacy": {
+        "string": "Privacy",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Terms": {
+        "string": "Terms",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Contact us": {
+        "string": "Contact us",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Subscription page": {
+        "string": "Subscription page",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Upgrade your subscription": {
+        "string": "Upgrade your subscription",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Your trial has ended and your account has been locked. Please subscribe to a plan to continue using Transifex.": {
+        "string": "Your trial has ended and your account has been locked. Please subscribe to a plan to continue using Transifex.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This organization's trial has ended. To keep using Transifex, please ask one of the organization's administrators to subscribe to a plan.": {
+        "string": "This organization's trial has ended. To keep using Transifex, please ask one of the organization's administrators to subscribe to a plan.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Your subscription has been canceled and your account has been locked following your request. Please subscribe to a plan to continue using Transifex.": {
+        "string": "Your subscription has been canceled and your account has been locked following your request. Please subscribe to a plan to continue using Transifex.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This organization is currently inactive. An administrator has paused the subscription.": {
+        "string": "This organization is currently inactive. An administrator has paused the subscription.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This organization's subscription has been locked. To keep using Transifex please reach out to support.": {
+        "string": "This organization's subscription has been locked. To keep using Transifex please reach out to support.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Please subscribe to a plan to continue using Transifex.": {
+        "string": "Please subscribe to a plan to continue using Transifex.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This organization's subscription has expired. To keep using Transifex, please have an organization administrator subscribe to a plan again.": {
+        "string": "This organization's subscription has expired. To keep using Transifex, please have an organization administrator subscribe to a plan again.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Oops! It looks like you have outgrown your current limits and your account was locked. Please upgrade to a different plan to continue using Transifex.": {
+        "string": "Oops! It looks like you have outgrown your current limits and your account was locked. Please upgrade to a different plan to continue using Transifex.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "This organization has too many words and has been temporarily disabled. To resume using Transifex, please have an organization administrator upgrade to another plan.": {
+        "string": "This organization has too many words and has been temporarily disabled. To resume using Transifex, please have an organization administrator upgrade to another plan.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "You have reached your plan's collaborator limit. To add more collaborators, please upgrade your plan.": {
+        "string": "You have reached your plan's collaborator limit. To add more collaborators, please upgrade your plan.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "You are over your plan's collaborator limit. To add more collaborators, please upgrade your plan.": {
+        "string": "You are over your plan's collaborator limit. To add more collaborators, please upgrade your plan.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "There are <strong>{days} days</strong> left in your \"{orgname}\" trial.": {
+        "string": "There are <strong>{days} days</strong> left in your \"{orgname}\" trial.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "There are <strong>{days} days</strong> left in your \"{orgname}\" trial. <strong>Subscribe today and get {percentage}% OFF!</strong>": {
+        "string": "There are <strong>{days} days</strong> left in your \"{orgname}\" trial. <strong>Subscribe today and get {percentage}% OFF!</strong>",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "There is <strong>{days} day</strong> left in your \"{orgname}\" trial.": {
+        "string": "There is <strong>{days} day</strong> left in your \"{orgname}\" trial.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "There is <strong>{days} day</strong> left in your \"{orgname}\" trial. <strong>Subscribe today and get {percentage}% OFF!</strong>": {
+        "string": "There is <strong>{days} day</strong> left in your \"{orgname}\" trial. <strong>Subscribe today and get {percentage}% OFF!</strong>",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Your account will automatically switch to a paid Premium plan, billed annually, after your trial ends.": {
+        "string": "Your account will automatically switch to a paid Premium plan, billed annually, after your trial ends.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Login": {
+        "string": "Log in",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Try for free": {
+        "string": "Try for free",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Upcoming Plan Changes": {
+        "string": "Upcoming Plan Changes",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Plan Changes": {
+        "string": "Plan Changes",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Explore": {
+        "string": "Explore",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Dashboard": {
+        "string": "Dashboard",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Teams": {
+        "string": "Teams",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Reports": {
+        "string": "Reports",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "You need to upgrade to do that.": {
+        "string": "You need to upgrade to do that.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Localization Reports are available in the Premium plan.": {
+        "string": "Localization Reports are available in the Premium plan.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Upgrade now!": {
+        "string": "Upgrade now!",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Learn more": {
+        "string": "Learn more",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Tasks": {
+        "string": "Tasks",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Orders": {
+        "string": "Orders",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Orderbook": {
+        "string": "Orderbook",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Search Strings": {
+        "string": "Search Strings",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Searching for strings across all your projects and languages is available in the premium plan.": {
+        "string": "Searching for strings across all your projects and languages is available in the Premium plan.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Product": {
+        "string": "Product",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Pricing": {
+        "string": "Pricing",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Customers": {
+        "string": "Customers",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Resources": {
+        "string": "Resources",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "About": {
+        "string": "About",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    " Hi, <strong> {username}</strong> ": {
+        "string": " Hi, <strong> {username}</strong> ",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Notifications": {
+        "string": "Notifications",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Messages": {
+        "string": "Messages",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "User Settings": {
+        "string": "User Settings",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Log out": {
+        "string": "Log out",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Organization Settings": {
+        "string": "Organization Settings",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Please activate your account to edit organization settings": {
+        "string": "Please activate your account to edit organization settings",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Select an organization": {
+        "string": "Select an organization",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "No organizations": {
+        "string": "No organizations",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Organization's Public Page": {
+        "string": "Organization's Public Page",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Subscription": {
+        "string": "Subscription",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "No organizations!": {
+        "string": "No organizations!",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Join a project's team or create your organization to see your options": {
+        "string": "Join a project's team or create your organization to see your options",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "SWITCH ORGANIZATION": {
+        "string": "SWITCH ORGANIZATION",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Create Organization": {
+        "string": "Create Organization",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Something went wrong": {
+        "string": "Something went wrong",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Page not found": {
+        "string": "Page not found",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "It looks like you followed a bad link.": {
+        "string": "It looks like you followed a bad link.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "If you think it's our fault, please <a href=\"{contact_url}\" {style_attrs}>let us know</a>.": {
+        "string": "If you think it's our fault, please <a href=\"{contact_url}\" {style_attrs}>let us know</a>.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Otherwise, you can go back to your <a href=\"{main_cta_link}\" {style_attrs}>dashboard</a> and resume your work.": {
+        "string": "Otherwise, you can go back to your <a href=\"{main_cta_link}\" {style_attrs}>dashboard</a> and resume your work.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Otherwise, you may <a href=\"{login_link}\" {class_name}>login</a> to your account and work on something else.": {
+        "string": "Otherwise, you may <a href=\"{login_link}\" {class_name}>log in</a> to your account and work on something else.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Page unavailable": {
+        "string": "Page unavailable",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Something has gone wrong on our end!": {
+        "string": "Something has gone wrong on our end!",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    },
+    "Please, head back to the Transifex <a href=\"{ home_link }\" {style_attrs}>homepage</a>.": {
+        "string": "Please head back to the Transifex <a href=\"{ home_link }\" {style_attrs}>homepage</a>.",
+        "context": "",
+        "developer_comment": "",
+        "character_limit": null
+    }
+}
