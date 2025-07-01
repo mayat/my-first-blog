@@ -1,0 +1,488 @@
+{
+  "project.add.languages.infobox": {
+    "string": "Η <b>πηγική γλώσσα</b> είναι η γλώσσα από την οποία μεταφράζετε - συνήθως είναι αυτή στην οποία αναπτύσσετε την εφαρμογή ή το περιεχόμενό σας. Αυτό δεν μπορεί να αλλάξει αργότερα."
+  },
+  "project.add.privacy.type.native.label": {
+    "string": "<span {type_style}>Native</span>: Προσθέστε ένα SDK στον κώδικά σας, εξυπηρετήστε μεταφράσεις μέσω Over The Air            "
+  },
+  "project.add.languages.target_languages.clear_selected": {
+    "string": "καθαρίστε τις γλώσσες στόχους"
+  },
+  "project.add.type.title": {
+    "string": "Επιλέξτε τύπο έργου"
+  },
+  "project.add.team.existing.select.search_placeholder": {
+    "string": "Ξεκινήστε να πληκτρολογείτε για να φιλτράρετε ομάδες"
+  },
+  "project.add.languages.target_languages.label": {
+    "string": "Γλώσσες στόχοι"
+  },
+  "project.add.name.input.helptext": {
+    "string": "π.χ. <em class=\"js-project-name\">\"Ιστότοπος { oname }\"</em>. Θα δημιουργηθεί μια μοναδική διεύθυνση URL έργου βάσει του ονόματος              "
+  },
+  "project.add.title": {
+    "string": "Προσθήκη νέου έργου  "
+  },
+  "project.add.page_title": {
+    "string": "Προσθήκη έργου"
+  },
+  "project.add.team.existing.select.placeholder": {
+    "string": "Επιλέξτε ομάδα"
+  },
+  "project.add.privacy.public.helptext": {
+    "string": "Το έργο σας θα είναι ορατό σε όλους."
+  },
+  "project.add.name.input.placeholder": {
+    "string": "Πληκτρολογήστε το όνομα του έργου σας"
+  },
+  "project.add.name.title": {
+    "string": "Ονομάστε το έργο σας"
+  },
+  "project.add.create_button": {
+    "string": "Δημιουργία έργου"
+  },
+  "project.add.languages.infobox_extra": {
+    "string": "<b>Οι γλώσσες-στόχοι</b> είναι οι γλώσσες στις οποίες θέλετε να μεταφράσετε το περιεχόμενό σας.\n              Μπορείτε πάντα να προσθέσετε και να αφαιρέσετε γλώσσες αργότερα.\n            "
+  },
+  "project.add.target_languages.title.optional": {
+    "string": "(προαιρετικό, ορίζεται αργότερα)"
+  },
+  "project.add.privacy.type.live.upgrade_text": {
+    "string": "Το Transifex Live δεν είναι διαθέσιμο για οργανισμούς στο πρόγραμμα Open Source. Παρακαλώ σκεφτείτε την αναβάθμιση για να το χρησιμοποιήσετε              "
+  },
+  "project.add.team.existing.label": {
+    "string": "Αναθέστε αυτό το έργο σε μια υπάρχουσα ομάδα"
+  },
+  "project.add.team.new.label": {
+    "string": "Δημιουργήστε μια νέα ομάδα για αυτό το έργο"
+  },
+  "project.add.privacy.type.native.helptext": {
+    "string": "Υποστηριζόμενα πλαίσια: JavaScript, React, Angular, Vue, i18next, Django, Python, Android, iOS."
+  },
+  "project.add.name.input.url_info": {
+    "string": "Η μοναδική διεύθυνση URL για το έργο σας θα είναι <span id=\"project-urlpath\">app.transifex.com/{ oslug }/</span><span id=\"js-project-slug\"></span>. Μπορείτε να την αλλάξετε αργότερα              "
+  },
+  "project.add.type.file_based.label": {
+    "string": "<span {type_style}>Βασισμένο σε αρχείο</span>: Ανεβάστε ένα αρχείο γλώσσας (π.χ. po, yml, xliff) με τα περιεχόμενά σας            "
+  },
+  "project.add.team.existing.assign_text": {
+    "string": "Αναθέστε αυτό το έργο στην ομάδα { teamname }              "
+  },
+  "project.add.general_error": {
+    "string": "Φαίνεται να υπάρχει ένα γενικό πρόβλημα κατά τη δημιουργία του έργου. Παρακαλώ προσπαθήστε να το υποβάλετε ξανά σε λίγο!"
+  },
+  "project.add.privacy.private.label": {
+    "string": "Ιδιωτικό έργο"
+  },
+  "project.add.team.infobox": {
+    "string": "<b>Οι ομάδες</b> αποτελούνται από άτομα που μεταφράζουν, ελέγχουν και συνεργάζονται για να τοπικοποιήσουν περιεχόμενο σε ένα σύνολο γλωσσών            "
+  },
+  "project.add.languages.source_language.select.placeholder": {
+    "string": "Επιλέξτε γλώσσα προέλευσης"
+  },
+  "project.add.team.title": {
+    "string": "Ανάθεση στην ομάδα"
+  },
+  "project.add.privacy.type.live.label": {
+    "string": "<span {type_style}>Ζωντανά</span>: Ορίστε το URL του ιστότοπού σας, προσθέστε ένα απόσπασμα και αφήστε το Transifex να ανιχνεύσει αυτόματα τις συμβολοσειρές            "
+  },
+  "project.add.privacy.private.infobox": {
+    "string": "Ένα <b>ιδιωτικό έργο</b> είναι ορατό μόνο σε εσάς και την ομάδα σας. Για να κάνετε ένα έργο ιδιωτικό, θα χρειαστεί να είστε σε ένα πληρωμένο πλάνο          "
+  },
+  "project.add.privacy.public.label": {
+    "string": "Δημόσιο έργο"
+  },
+  "project.add.languages.target_languages.select.label": {
+    "string": "Επιλέξτε μια γλώσσα στόχο"
+  },
+  "project.add.languages.title": {
+    "string": "Επιλέξτε γλώσσες"
+  },
+  "project.add.privacy.private.helptext": {
+    "string": "Ένα ιδιωτικό έργο είναι ορατό μόνο σε εσάς και την ομάδα σας."
+  },
+  "project.settings.workflow.tm_fillup_similar_locales.label": {
+    "string": "Συμπλήρωση Μνήμης Μετάφρασης από παρόμοιες τοπικές ρυθμίσεις"
+  },
+  "project.settings.workflow.tm_fillup_similar_locales.description": {
+    "string": "Η επιλογή αυτής της ρύθμισης θα μεταφράσει αυτόματα φράσεις με ακριβείς αντιστοιχίες από τη Μνήμη Μετάφρασης. <a {docs_link}>Διαβάστε περισσότερα στην τεκμηρίωσή μας.</a>            "
+  },
+  "Something went wrong while contacting our servers.": {
+    "string": "Κάτι πήγε στραβά κατά την επικοινωνία με τους διακομιστές μας."
+  },
+  "Manage Collaborators": {
+    "string": "Διαχείριση Συνεργατών"
+  },
+  "Max allowed on this organization <b>{limit}</b>": {
+    "string": "Μέγιστος επιτρεπόμενος αριθμός σε αυτόν τον οργανισμό <b>{limit}</b>"
+  },
+  "Items per page:": {
+    "string": "Στοιχεία ανά σελίδα:"
+  },
+  "No collaborators found!": {
+    "string": "Δεν βρέθηκαν συνεργάτες!"
+  },
+  "Please redefine your search to get more collaborators.": {
+    "string": "Παρακαλώ επαναπροσδιορίστε την αναζήτησή σας για να βρείτε περισσότερους συνεργάτες."
+  },
+  "Select All": {
+    "string": "Επιλογή όλων"
+  },
+  "Deselect All": {
+    "string": "Αποεπιλογή όλων"
+  },
+  "Profile": {
+    "string": "Προφίλ"
+  },
+  "Role": {
+    "string": "Ρόλος"
+  },
+  "Last Seen": {
+    "string": "Τελευταία Εμφάνιση"
+  },
+  "Actions": {
+    "string": "Ενέργειες"
+  },
+  "Show details": {
+    "string": "Εμφάνιση λεπτομερειών"
+  },
+  "Remove collaborator": {
+    "string": "Αφαίρεση συνεργάτη"
+  },
+  "{selectedItems, plural, one {Are you sure you want to remove the selected collaborator?} other {Are you sure you want to remove the {selectedItems} selected collaborators?}}": {
+    "string": {
+      "1": "Είστε βέβαιοι ότι θέλετε να αφαιρέσετε τον επιλεγμένο συνεργάτη;?",
+      "5": "Είστε βέβαιοι ότι θέλετε να αφαιρέσετε τους {selectedItems} επιλεγμένους συνεργάτες;?"
+    }
+  },
+  "{selectedItems, plural, one {The following collaborator will be removed. This cannot be undone.} other {The following collaborators will be removed. This cannot be undone.}}": {
+    "string": {
+      "1": "Ο ακόλουθος συνεργάτης θα αφαιρεθεί. Αυτό δεν μπορεί να αναιρεθεί.",
+      "5": "Οι ακόλουθοι συνεργάτες θα αφαιρεθούν. Αυτό δεν μπορεί να αναιρεθεί."
+    }
+  },
+  "<b>Project Maintainer</b> role of <b>{users}</b> for <b>{project_name}</b> is automatically going to be assigned to you.": {
+    "string": "Ο ρόλος του <b>Διαχειριστή Έργου</b> για τους <b>{users}</b> στο <b>{project_name}</b> θα ανατεθεί αυτόματα σε εσάς."
+  },
+  "<b>Language Coordinator</b> role of <b>{users}</b> for <b>{language_name}</b> ({team_name}) is automatically going to be assigned to you.": {
+    "string": "Ο ρόλος του <b>Συντονιστή Γλώσσας</b> για τον/την <b>{users}</b> στη γλώσσα <b>{language_name}</b> ({team_name}) πρόκειται να ανατεθεί αυτόματα σε εσάς."
+  },
+  "Cancel": {
+    "string": "Ακύρωση"
+  },
+  "Remove": {
+    "string": "Αφαίρεση"
+  },
+  "Collaborator Details": {
+    "string": "Λεπτομέρειες Συνεργάτη"
+  },
+  "Roles ({roles_count})": {
+    "string": "Ρόλοι ({roles_count})"
+  },
+  "Remove Collaborator": {
+    "string": "Αφαίρεση Συνεργάτη"
+  },
+  "{total, plural, one {Collaborator} other {Collaborators}}": {
+    "string": {
+      "1": "Συνεργάτης",
+      "5": "Συνεργάτες"
+    }
+  },
+  "(including {orders} from e2f working on orders)": {
+    "string": "(συμπεριλαμβανομένων {orders} από την e2f που εργάζονται σε παραγγελίες)"
+  },
+  "E2f members do not count towards your subscription's capacity and will be auto-removed upon order's delivery.": {
+    "string": "Τα μέλη E2f δεν υπολογίζονται στην χωρητικότητα της συνδρομής σας και θα αφαιρούνται αυτόματα μετά την παράδοση της παραγγελίας."
+  },
+  "{selectedItems, plural, one {{selectedItems} Collaborator selected} other {{selectedItems} Collaborators selected}}": {
+    "string": {
+      "1": "{selectedItems} Συνεργάτης επιλέχθηκε",
+      "5": "{selectedItems} Συνεργάτες επιλέχθηκαν"
+    }
+  },
+  "Organization Administrator": {
+    "string": "Διαχειριστής Οργανισμού"
+  },
+  "Project Maintainer": {
+    "string": "Συντηρητής Έργου"
+  },
+  "Team Manager": {
+    "string": "Υπεύθυνος Ομάδας"
+  },
+  "Language Coordinator": {
+    "string": "Συντονιστής Γλώσσας"
+  },
+  "Reviewer": {
+    "string": "Αξιολογητής"
+  },
+  "Translator": {
+    "string": "Μεταφραστής"
+  },
+  "Search by username, email address or full name": {
+    "string": "Αναζήτηση με όνομα χρήστη, διεύθυνση email ή πλήρες όνομα"
+  },
+  "User": {
+    "string": "Χρήστης"
+  },
+  "Filters": {
+    "string": "Φίλτρα"
+  },
+  "Search": {
+    "string": "Αναζήτηση"
+  },
+  "Before": {
+    "string": "Πριν"
+  },
+  "After": {
+    "string": "Μετά"
+  },
+  "your text": {
+    "string": "το κείμενό σας"
+  },
+  "Type your username or email address": {
+    "string": "Πληκτρολογήστε το όνομα χρήστη ή τη διεύθυνση email σας"
+  },
+  "Search for collaborators by their username or email address": {
+    "string": "Αναζητήστε συνεργάτες με το όνομα χρήστη ή τη διεύθυνση email τους"
+  },
+  "Search in one or more user roles. Leave it blank to search in all user roles": {
+    "string": "Αναζήτηση σε έναν ή περισσότερους ρόλους χρήστη. Αφήστε το κενό για αναζήτηση σε όλους τους ρόλους χρήστη"
+  },
+  "Search for collaborators that were last seen before a specific date": {
+    "string": "Αναζήτηση συνεργατών που εθεάθησαν τελευταία φορά πριν από συγκεκριμένη ημερομηνία"
+  },
+  "Search for collaborators that were last seen after a specific date": {
+    "string": "Αναζήτηση συνεργατών που εθεάθησαν τελευταία φορά μετά από μια συγκεκριμένη ημερομηνία"
+  },
+  "Selected": {
+    "string": "Επιλεγμένο"
+  },
+  "Apply": {
+    "string": "Εφαρμογή"
+  },
+  "Clear": {
+    "string": "Καθαρισμός"
+  },
+  "Documentation": {
+    "string": "Τεκμηρίωση"
+  },
+  "Integrations": {
+    "string": "Ενσωματώσεις"
+  },
+  "Blog": {
+    "string": "Ιστολόγιο"
+  },
+  "Community": {
+    "string": "Κοινότητα"
+  },
+  "Releases": {
+    "string": "Κυκλοφορίες"
+  },
+  "Status": {
+    "string": "Κατάσταση"
+  },
+  "Contact": {
+    "string": "Επικοινωνία"
+  },
+  "Privacy": {
+    "string": "Απόρρητο"
+  },
+  "Terms": {
+    "string": "Όροι"
+  },
+  "Contact us": {
+    "string": "Επικοινωνήστε μαζί μας"
+  },
+  "Subscription page": {
+    "string": "Σελίδα συνδρομής"
+  },
+  "Upgrade your subscription": {
+    "string": "Αναβαθμίστε τη συνδρομή σας"
+  },
+  "Your trial has ended and your account has been locked. Please subscribe to a plan to continue using Transifex.": {
+    "string": "Η δοκιμαστική περίοδος σας έχει λήξει και ο λογαριασμός σας έχει κλειδωθεί. Παρακαλώ εγγραφείτε σε ένα πρόγραμμα για να συνεχίσετε να χρησιμοποιείτε το Transifex."
+  },
+  "This organization's trial has ended. To keep using Transifex, please ask one of the organization's administrators to subscribe to a plan.": {
+    "string": "Η δοκιμαστική περίοδος αυτής της οργάνωσης έχει λήξει. Για να συνεχίσετε να χρησιμοποιείτε το Transifex, παρακαλώ ζητήστε από έναν από τους διαχειριστές της οργάνωσης να εγγραφεί σε ένα πρόγραμμα."
+  },
+  "Your subscription has been canceled and your account has been locked following your request. Please subscribe to a plan to continue using Transifex.": {
+    "string": "Η συνδρομή σας ακυρώθηκε και ο λογαριασμός σας κλειδώθηκε μετά από αίτημά σας. Παρακαλώ εγγραφείτε σε ένα πρόγραμμα για να συνεχίσετε να χρησιμοποιείτε το Transifex."
+  },
+  "This organization is currently inactive. An administrator has paused the subscription.": {
+    "string": "Αυτή η οργάνωση είναι επί του παρόντος ανενεργή. Ένας διαχειριστής έχει θέσει σε παύση τη συνδρομή."
+  },
+  "This organization's subscription has been locked. To keep using Transifex please reach out to support.": {
+    "string": "Η συνδρομή αυτού του οργανισμού έχει κλειδωθεί. Για να συνεχίσετε να χρησιμοποιείτε το Transifex, παρακαλώ επικοινωνήστε με την υποστήριξη."
+  },
+  "Please subscribe to a plan to continue using Transifex.": {
+    "string": "Παρακαλώ εγγραφείτε σε ένα πρόγραμμα για να συνεχίσετε να χρησιμοποιείτε το Transifex."
+  },
+  "This organization's subscription has expired. To keep using Transifex, please have an organization administrator subscribe to a plan again.": {
+    "string": "Η συνδρομή αυτής της οργάνωσης έχει λήξει. Για να συνεχίσετε να χρησιμοποιείτε το Transifex, παρακαλούμε να εγγραφεί ξανά ένας διαχειριστής της οργάνωσης σε ένα πρόγραμμα."
+  },
+  "Oops! It looks like you have outgrown your current limits and your account was locked. Please upgrade to a different plan to continue using Transifex.": {
+    "string": "Ουπς! Φαίνεται ότι έχετε υπερβεί τα τρέχοντα όριά σας και ο λογαριασμός σας έχει κλειδωθεί. Παρακαλώ αναβαθμίστε σε ένα διαφορετικό πλάνο για να συνεχίσετε να χρησιμοποιείτε το Transifex."
+  },
+  "This organization has too many words and has been temporarily disabled. To resume using Transifex, please have an organization administrator upgrade to another plan.": {
+    "string": "Αυτός ο οργανισμός έχει πάρα πολλές λέξεις και έχει απενεργοποιηθεί προσωρινά. Για να συνεχίσετε να χρησιμοποιείτε το Transifex, παρακαλώ ζητήστε από έναν διαχειριστή του οργανισμού να αναβαθμίσει σε άλλο πλάνο."
+  },
+  "You have reached your plan's collaborator limit. To add more collaborators, please upgrade your plan.": {
+    "string": "Έχετε φτάσει το όριο συνεργατών του προγράμματός σας. Για να προσθέσετε περισσότερους συνεργάτες, παρακαλώ αναβαθμίστε το πρόγραμμά σας."
+  },
+  "You are over your plan's collaborator limit. To add more collaborators, please upgrade your plan.": {
+    "string": "Έχετε υπερβεί το όριο συνεργατών του προγράμματός σας. Για να προσθέσετε περισσότερους συνεργάτες, παρακαλώ αναβαθμίστε το πρόγραμμά σας."
+  },
+  "There are <strong>{days} days</strong> left in your \"{orgname}\" trial.": {
+    "string": "Απομένουν <strong>{days} ημέρες</strong> στη δοκιμαστική περίοδο του \"{orgname}\"."
+  },
+  "There are <strong>{days} days</strong> left in your \"{orgname}\" trial. <strong>Subscribe today and get {percentage}% OFF!</strong>": {
+    "string": "Απομένουν <strong>{days} ημέρες</strong> στη δοκιμή σας \"{orgname}\". <strong>Εγγραφείτε σήμερα και κερδίστε {percentage}% ΕΚΠΤΩΣΗ!</strong>"
+  },
+  "There is <strong>{days} day</strong> left in your \"{orgname}\" trial.": {
+    "string": "Απομένει <strong>{days} ημέρα</strong> στη δοκιμή σας \"{orgname}\"."
+  },
+  "There is <strong>{days} day</strong> left in your \"{orgname}\" trial. <strong>Subscribe today and get {percentage}% OFF!</strong>": {
+    "string": "Απομένει <strong>{days} ημέρα</strong> στη δοκιμή σας \"{orgname}\". <strong>Εγγραφείτε σήμερα και κερδίστε {percentage}% ΕΚΠΤΩΣΗ!</strong>"
+  },
+  "Your account will automatically switch to a paid Premium plan, billed annually, after your trial ends.": {
+    "string": "Ο λογαριασμός σας θα μεταβεί αυτόματα σε ένα επί πληρωμή πρόγραμμα Premium, με ετήσια χρέωση, μετά τη λήξη της δοκιμαστικής περιόδου σας."
+  },
+  "Login": {
+    "string": "Σύνδεση"
+  },
+  "Try for free": {
+    "string": "Δοκιμάστε δωρεάν"
+  },
+  "Upcoming Plan Changes": {
+    "string": "Επερχόμενες Αλλαγές Σχεδίου"
+  },
+  "Plan Changes": {
+    "string": "Αλλαγές Σχεδίου"
+  },
+  "Explore": {
+    "string": "Εξερευνήστε"
+  },
+  "Dashboard": {
+    "string": "Πίνακας ελέγχου"
+  },
+  "Teams": {
+    "string": "Ομάδες"
+  },
+  "Reports": {
+    "string": "Αναφορές"
+  },
+  "You need to upgrade to do that.": {
+    "string": "Χρειάζεται να κάνετε αναβάθμιση για να το κάνετε αυτό."
+  },
+  "Localization Reports are available in the Premium plan.": {
+    "string": "Οι αναφορές τοπικοποίησης είναι διαθέσιμες στο πρόγραμμα Premium."
+  },
+  "Upgrade now!": {
+    "string": "Αναβαθμίστε τώρα!"
+  },
+  "Learn more": {
+    "string": "Μάθετε περισσότερα"
+  },
+  "Tasks": {
+    "string": "Εργασίες"
+  },
+  "Orders": {
+    "string": "Παραγγελίες"
+  },
+  "Orderbook": {
+    "string": "Βιβλίο εντολών"
+  },
+  "Search Strings": {
+    "string": "Αναζήτηση Συμβολοσειρών"
+  },
+  "Searching for strings across all your projects and languages is available in the premium plan.": {
+    "string": "Η αναζήτηση για συμβολοσειρές σε όλα τα έργα και τις γλώσσες σας είναι διαθέσιμη στο πρόγραμμα Premium."
+  },
+  "Product": {
+    "string": "Προϊόν"
+  },
+  "Pricing": {
+    "string": "Τιμολόγηση"
+  },
+  "Customers": {
+    "string": "Πελάτες"
+  },
+  "Resources": {
+    "string": "Πόροι"
+  },
+  "About": {
+    "string": "Σχετικά"
+  },
+  " Hi, <strong> {username}</strong> ": {
+    "string": " Γεια, <strong> {username}</strong> "
+  },
+  "Notifications": {
+    "string": "Ειδοποιήσεις"
+  },
+  "Messages": {
+    "string": "Μηνύματα"
+  },
+  "User Settings": {
+    "string": "Ρυθμίσεις Χρήστη"
+  },
+  "Log out": {
+    "string": "Αποσύνδεση"
+  },
+  "Organization Settings": {
+    "string": "Ρυθμίσεις Οργάνωσης"
+  },
+  "Please activate your account to edit organization settings": {
+    "string": "Ενεργοποιήστε τον λογαριασμό σας για να επεξεργαστείτε τις ρυθμίσεις του οργανισμού"
+  },
+  "Select an organization": {
+    "string": "Επιλέξτε έναν οργανισμό"
+  },
+  "No organizations": {
+    "string": "Καμία οργάνωση"
+  },
+  "Organization's Public Page": {
+    "string": "Σελίδα Δημόσιας Οργάνωσης"
+  },
+  "Subscription": {
+    "string": "Συνδρομή"
+  },
+  "No organizations!": {
+    "string": "Καμία οργάνωση!"
+  },
+  "Join a project's team or create your organization to see your options": {
+    "string": "Γίνετε μέλος μιας ομάδας έργου ή δημιουργήστε τον οργανισμό σας για να δείτε τις επιλογές σας"
+  },
+  "SWITCH ORGANIZATION": {
+    "string": "ΑΛΛΑΓΗ ΟΡΓΑΝΙΣΜΟΥ"
+  },
+  "Create Organization": {
+    "string": "Δημιουργία Οργάνωσης"
+  },
+  "Something went wrong": {
+    "string": "Κάτι πήγε στραβά"
+  },
+  "Page not found": {
+    "string": "Η σελίδα δεν βρέθηκε"
+  },
+  "It looks like you followed a bad link.": {
+    "string": "Φαίνεται ότι ακολουθήσατε έναν κακό σύνδεσμο."
+  },
+  "If you think it's our fault, please <a href=\"{contact_url}\" {style_attrs}>let us know</a>.": {
+    "string": "Αν πιστεύετε ότι φταίμε εμείς, παρακαλώ <a href=\"{contact_url}\" {style_attrs}>ενημερώστε μας</a>."
+  },
+  "Otherwise, you can go back to your <a href=\"{main_cta_link}\" {style_attrs}>dashboard</a> and resume your work.": {
+    "string": "Διαφορετικά, μπορείτε να επιστρέψετε στον <a href=\"{main_cta_link}\" {style_attrs}>πίνακα ελέγχου</a> σας και να συνεχίσετε τη δουλειά σας."
+  },
+  "Otherwise, you may <a href=\"{login_link}\" {class_name}>login</a> to your account and work on something else.": {
+    "string": "Διαφορετικά, μπορείτε να <a href=\"{login_link}\" {class_name}>συνδεθείτε</a> στον λογαριασμό σας και να ασχοληθείτε με κάτι άλλο."
+  },
+  "Page unavailable": {
+    "string": "Η σελίδα δεν είναι διαθέσιμη"
+  },
+  "Something has gone wrong on our end!": {
+    "string": "Κάτι πήγε στραβά από την πλευρά μας!"
+  },
+  "Please, head back to the Transifex <a href=\"{ home_link }\" {style_attrs}>homepage</a>.": {
+    "string": "Παρακαλώ επιστρέψτε στην <a href=\"{ home_link }\" {style_attrs}>αρχική σελίδα</a> του Transifex."
+  }
+}
